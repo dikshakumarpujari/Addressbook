@@ -9,6 +9,7 @@ A menu-driven address book application developed in C, designed to efficiently m
 - Display all contacts
 
 ## Technologies Used
+ - C Programming
  - File operations 
  - Pointers 
  - Structures
